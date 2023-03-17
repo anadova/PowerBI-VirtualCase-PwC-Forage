@@ -1,4 +1,4 @@
-# PowerBI-VirtualCase-PwC-Forage
+# PowerBI VirtualCase by PwC&Forage
 
 The virtual PowerBI Case experience by PwC Switzerlad through Forage is an excellant starting point for a Data Analyst looking to put in practice their skills with
 Power BI. 
