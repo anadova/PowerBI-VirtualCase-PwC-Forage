@@ -6,8 +6,8 @@ This experince consists of three case studies on three different realalike datas
 
 # Case study 1.- Call Centre Trends
 Create a dashboard in Power BI for Claire, the Call Centre Manager, that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
-KPIs : <\br>
-Overall customer satisfaction\n
+KPIs : 
+Overall customer satisfaction
 Overall calls answered/abandoned
 Calls by time
 Average speed of answer
